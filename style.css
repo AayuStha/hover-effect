@@ -54,12 +54,15 @@ img {
 }
 
 .content h2 {
-  color: #7f9ead;
+  color: #ff0000;
+  margin-top: 80px;
+  font-family: verdana;
 }
 .content .btn{
     text-decoration: none;
+    border-radius: 20px;
     padding: 0.5rem 1rem;
-    background: grey;
+    background: rgb(90, 14, 123);
     color: white;
     font-size: 14px;
     font-weight: bold;
